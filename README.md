@@ -1,7 +1,5 @@
 # thingfinder
 find different links here
-
-
 <b> 
     Google: https://www.google.com 
     Bing: https://www.bing.com 
@@ -25,5 +23,4 @@ find different links here
     Amazon Prime Video: https://www.amazon.com/primevideo
     Spotify: https://www.spotify.com 
     ESPN: https://www.espn.com
-    
-</b>
+    </b>
